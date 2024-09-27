@@ -1,0 +1,4 @@
+repository "KhafSchool@Arstotzka@cloud"
+  path "/"
+    br "/main"
+    co "/main"
